@@ -30,7 +30,7 @@ This project utilizes machine learning techniques to predict stock prices, provi
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback to enhance the capabilities and accuracy of stock price prediction.
 License
 
-This project is licensed under the MIT License.
-##Disclaimer
+This project is licensed under the Apache 2.0 License.
+## Disclaimer
 
 This project is for educational and research purposes only. Stock market predictions are inherently uncertain, and users should exercise caution when making financial decisions based on model predictions.
