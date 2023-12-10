@@ -1,5 +1,5 @@
-#Stock Price Prediction with Machine Learning
-##Overview
+# Stock Price Prediction with Machine Learning
+## Overview
 
 This project utilizes machine learning techniques to predict stock prices, providing insights into potential market trends. Leveraging deep learning and statistical analysis, we aim to build a robust model capable of making accurate predictions based on historical stock market data.
 ## Key Features
@@ -9,7 +9,7 @@ This project utilizes machine learning techniques to predict stock prices, provi
     Evaluation Metrics: Comprehensive evaluation using metrics such as Mean Squared Error (MSE) and accuracy to assess the performance of the predictive models.
     Interactive Visualization: Engaging visualizations to illustrate predicted vs. actual stock prices, aiding in result interpretation.
 
-##Technologies Used
+## Technologies Used
 
     Python
     Scikit-learn
@@ -18,14 +18,14 @@ This project utilizes machine learning techniques to predict stock prices, provi
     Matplotlib
     Jupyter Notebooks
 
-##Getting Started
+## Getting Started
 
     Clone the repository.
     Install the required dependencies by running pip install -r requirements.txt.
     Explore the Jupyter Notebooks to understand the analysis and model implementation.
     Run the provided scripts to train and evaluate the predictive models.
 
-##Contributions
+## Contributions
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback to enhance the capabilities and accuracy of stock price prediction.
 License
