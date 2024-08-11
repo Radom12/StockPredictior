@@ -18,13 +18,6 @@ This project utilizes machine learning techniques to predict stock prices, provi
     Matplotlib
     Jupyter Notebooks
 
-## Getting Started
-
-    Clone the repository.
-    Install the required dependencies by running pip install -r requirements.txt.
-    Explore the Jupyter Notebooks to understand the analysis and model implementation.
-    Run the provided scripts to train and evaluate the predictive models.
-
 ## Contributions
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback to enhance the capabilities and accuracy of stock price prediction.
